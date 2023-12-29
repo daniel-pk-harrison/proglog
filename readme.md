@@ -12,7 +12,7 @@ Request
 ```json
 {
     "record": {
-        "value":{valid_Base64_string}
+        "value":{"valid_Base64_string"}
     }
 }
 ```
@@ -20,7 +20,7 @@ Request
 Response
 ```json
 {
-    "offset": {log_offset}
+    "offset": {"log_offset"}
 }
 ```
 
@@ -31,7 +31,7 @@ Endpoint
 Request
 ```json
 {
-    "offset": {log_offset}
+    "offset": {"log_offset"}
 }
 ```
 
@@ -39,7 +39,7 @@ Response
 ```json
 {
     "record": {
-        "value":{valid_Base64_string}
+        "value":{"valid_Base64_string"}
     }
 }
 ```
